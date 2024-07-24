@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>unordered list</title>
+    </head>
+    <body>
+        <ul>Languege</ul>
+        <li>tamil</li>
+        <li>english</li>
+        <li>spanish</li>
+    </body>
+    </html>
